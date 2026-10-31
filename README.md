@@ -1,78 +1,36 @@
-# 👋 Hi, I'm [你的姓名/昵称]
+# Ziyu Ding
 
-### 🚀 About Me
-一名 [你的身份，例如：后端开发工程师 / 机器学习爱好者 / 前端萌新 / 在校计算机专业学生]，专注于 [你的专注领域，例如：Java 后端开发 / Python 数据处理 / Web 前端开发 / 深度学习模型训练]，热爱技术分享和开源项目探索。
-
-- 🌱 目前正在学习：[你正在学习的技术，例如：微服务架构 / Stable Diffusion 二次开发 / React 框架]
-- 🔭 近期关注：[你关注的领域，例如：大模型落地应用 / 低代码平台搭建 / 前端性能优化]
-- 💬 可以和我交流：[你擅长的话题，例如：Spring Boot 实战 / Git 版本控制 / 零基础编程入门]
-- 📫 如何联系我：往下滑动查看我的联系方式，或直接通过邮箱私信我
+PhD Student in 3D Computer Vision & Plant Phenotyping  
+Northwest A&F University (NWAFU)
 
 ---
 
-### 🛠️ Tech Stack & Skills
-| 类别 | 掌握技术 |
-|------|----------|
-| 编程语言 | [例如：Java / Python / JavaScript / C++ / Go] |
-| 框架/库 | [例如：Spring Boot / Django / React / Vue / PyTorch] |
-| 工具/平台 | [例如：Git / Docker / GitHub Pages / VS Code / MySQL] |
-| 其他技能 | [例如：数据可视化 / 接口文档编写 / 项目需求分析] |
+## About Me
 
-> ⚡ 备注：持续学习新技术，技术栈不断更新中 🔄
+I am a second-year PhD student at Northwest A&F University. My research focuses on **3D computer vision for plant phenotyping**, spanning multi-view 3D reconstruction, point cloud understanding, and practical acquisition systems. 
+
+I aim to translate 3D vision algorithms into scalable, cost-effective phenotypic pipelines that bridge algorithmic research and agricultural applications.
 
 ---
 
-### 🌟 My Featured Projects
-以下是我的核心项目，全部已部署 GitHub Pages 或提供源码访问：
+## Research Interests
 
-1. **[项目1名称，例如：SyncDreamer 静态展示页复刻]**
-   - 项目简介：[简要描述，例如：模仿 SyncDreamer 官网制作的静态项目展示页，用于展示学术项目/个人作品]
-   - 技术栈：[例如：HTML / CSS / Tailwind CSS / JavaScript]
-   - 访问链接：🔗 [GitHub Pages 地址](https://你的用户名.github.io/项目1仓库名)
-   - 源码地址：💻 [GitHub 仓库](https://github.com/你的用户名/项目1仓库名)
-
-2. **[项目2名称，例如：个人记账小工具（静态版）]**
-   - 项目简介：[简要描述，例如：基于前端技术实现的本地记账工具，支持收支统计和数据导出]
-   - 技术栈：[例如：HTML / CSS / Vue 3 / LocalStorage]
-   - 访问链接：🔗 [GitHub Pages 地址](https://你的用户名.github.io/项目2仓库名)
-   - 源码地址：💻 [GitHub 仓库](https://github.com/你的用户名/项目2仓库名)
-
-3. **[项目3名称，可补充更多项目]**
-   - 项目简介：[简要描述]
-   - 技术栈：[相关技术]
-   - 访问链接：🔗 [GitHub Pages 地址（若无则删除此行）]
-   - 源码地址：💻 [GitHub 仓库]
-
-> 📌 更多项目请查看我的 GitHub 个人仓库：[https://github.com/你的用户名](https://github.com/你的用户名)
+- **3D Plant Phenotyping**: High-throughput trait extraction, longitudinal stress monitoring.
+- **3D Reconstruction & Novel View Synthesis**: Multi-view stereo (SfM/MVS), Gaussian Splatting (3DGS).
+- **Point Cloud Understanding**: Weakly supervised semantic & instance segmentation, superpoint graph diffusion.
+- **Practical Vision Systems**: Low-cost multi-view imaging rigs, indoor phenotyping platforms.
 
 ---
 
-### 📊 GitHub Stats
-<!-- 展示 GitHub 数据统计卡片，无需修改，替换用户名即可 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="你的用户名's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="48%" />
-</p>
-
-<!-- 可选：添加打卡统计卡片 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
-### 📞 Contact Me
-- 📧 邮箱：[your-email@xxx.com]（替换为你的真实邮箱）
-- 🔗 GitHub：[https://github.com/你的用户名](https://github.com/你的用户名)
-- 📱 其他社交平台（可选）：[例如：知乎 / 掘金 / 微信公众号] - [你的账号名称]
+## Technical Stack
+
+- **Core Methods**: 3D Gaussian Splatting, SfM/MVS, Point Cloud Processing, Weakly Supervised Segmentation, Phenotypic Trait Extraction.
+- **Tools & Frameworks**: Python, PyTorch, Linux / GPU-based Workflows (NVIDIA RTX series).
 
 ---
-
-### ✨ Footer
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
-  " [你的座右铭，例如：Stay hungry, Stay foolish. / 以技术为翼，赴星辰大海.] "
+  <sub>© 2026 Ziyu Ding · Hosted on GitHub Pages</sub>
 </p>
